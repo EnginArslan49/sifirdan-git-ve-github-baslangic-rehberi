@@ -32,5 +32,5 @@ Depo içerisinde bulunan PDF dosyasını indirerek rehberi doğrudan okuyabilir 
 </p>
 
 <p align="center">
-  **Engin ARSLAN** | Yazılım Geliştirici
+  Engin ARSLAN | Yazılım Geliştirici
 </p>
